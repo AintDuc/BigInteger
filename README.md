@@ -1,2 +1,3 @@
 # BigInteger
-Đồ án 1 môn học Kiến trúc máy tính và hợp ngữ - Số nguyên lớn
+# Số nguyên lớn - 128 bit.
+- Mô tả: tạo một kiểu dữ liệu số nguyên 128-bit cùng với các phép toán cơ bản.
